@@ -1,0 +1,7 @@
+.parent_square{
+    height: 400px;
+    width: 400px;
+    background-image: url("obrazek_1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
